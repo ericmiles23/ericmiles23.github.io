@@ -22,9 +22,9 @@ const Experience = () => {
                         date="Oct 2016"
                     />
                     <p>
-                        Supervise a team responsible for campaign forecasting,
-                        creation, optimization, and reporting surrounding AT&amp;T
-                        Business Solutions and Corporate Sponsorship campaigns 
+                        Supervise a team responsible for campaign strategy,
+                        creation, optimization, and insight generation surrounding
+                        Cricket Wireless social media campaigns
                     </p>  
                 </div>
             </header>

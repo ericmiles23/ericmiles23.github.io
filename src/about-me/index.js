@@ -14,12 +14,15 @@ const AboutMe = () => {
                 listen to our message.
                 <br /> <br />
                 I joined this wonderfully challenging field in October of 2016 with
-                one of the largest advertisers in the United States,
-                AT&amp;T. After working to get AT&amp;T's B2B sector in front of
-                decision makers and working with their Corporate Sponsorship teams
-                for the last 3 years, I can officially say I am hooked. The social
-                media space is ever-evolving, always keeps you on your toes, and
-                offers new challenges every day and I love it.
+                AT&amp;T, one of the largest advertisers in the United States. Since
+                then, I've had the pleasure of working to get AT&amp;T's B2B sector
+                in front of business decision makers, their Corporate Sponsorship
+                team to promote Brand Awareness and CSR efforts, and Cricket Wireless
+                to drive customers who need affordable pre-paid plans to stores. As I've
+                moved through the different areas of the business, I can officially
+                say I am hooked. The social media space is ever-evolving, always
+                keeps you on your toes, and offers new challenges every day and I
+                love it.
                 <br /> <br />
                 Outside of work, I enjoy travelling and generally being outdoors,
                 doing a variety of activites including ultimate frisbee, rock
