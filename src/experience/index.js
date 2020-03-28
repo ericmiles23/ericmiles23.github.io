@@ -10,6 +10,10 @@ const Experience = () => {
                 <div >
                     <Company name="Hearts &amp; Science" />
                     <Position
+                        position="Supervisor"
+                        date="Mar 2020"
+                    />
+                    <Position
                         position="Senior Social Media Strategist"
                         date="Sept 2019"
                     />
